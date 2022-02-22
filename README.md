@@ -1,2 +1,2 @@
-# leetcode_practice
+# frontend_practice
 practice
